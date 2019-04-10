@@ -1,7 +1,7 @@
 ou
 ==
 
-Oracle RAC Operation Utility.
+Oracle RAC Operation Utility for Linux.
 
 The following image is for Windows. 
 
