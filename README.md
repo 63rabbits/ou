@@ -1,7 +1,7 @@
 ou
 ==
 
-Oracle RAC Operation Utility for Linux.
+Node status monitoring tool for Oracle RAC on Linux.
 
 The following image is for RHEL. 
 
